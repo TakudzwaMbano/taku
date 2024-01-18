@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>
+            exp
+        </title>
+        <style>
+.heading{
+    background-color: azure;
+    padding:auto;
+    text-align: center;
+
+}
+.links{
+    text-decoration: none;
+    text-align: center;
+    background-color: antiquewhite;
+    display: flexbox;
+    position:relative;
+    padding:20px;
+    margin:auto;
+
+}
+li{
+    text-decoration: none;
+}
+header{
+    text-decoration: none;
+    background-color: antiquewhite;
+
+
+
+}
+a{
+    text-decoration: none;
+    overflow: hidden;
+}
+a:hover{
+    background-color: blueviolet;
+}
+        </style>
+    </head>
+<body>
+    <div class="heading">
+    <h1>shopping site</h1>
+    </div>
+    <div>
+        <header class="links">
+                <a href="#">NAMES</a>
+                <a href="#">HOME PAGE</a>
+        </header>
+    </div>
+    
+
+
+
+
+
+
+
+
+
+</body>
+
+
+
+
+
+
+
+
+
+</html>
